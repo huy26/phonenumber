@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(name='phonenumber', 
     version='0.1',
-    description='Password Python Package', 
+    description='Phone Number Python Package', 
     author='@huy', 
     author_email='', 
     license='MIT', 
